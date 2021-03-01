@@ -1,0 +1,1345 @@
+.bg{
+    width:1519px;
+    height: 1700px;
+    background-color:black;
+    position:absolute;
+    top:0px;
+    left:0px;
+    right:0px;
+}
+.box1{
+    width: 1510px;
+    height: 75px;
+    background-color:black;
+    position:absolute;
+    top:0px;
+}
+.omio{
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    position:absolute;
+    left:250px;
+    top:0px;  
+}
+  ul li{
+    list-style:none;
+}
+  li{
+    display:inline-block;
+    margin-left:60px;
+    color:white;
+}
+  a{
+    color:white;
+}
+
+.Home{
+    width: 120px;
+    height: 50px;
+    font-family: sans-serif;
+    border-radius:10px;
+    font-size: 25px;
+    font-weight: 1000;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    padding-left:10px;
+    padding-bottom:3px;
+    position:absolute;
+    top:8px;
+    left:900px;
+}
+.Home:hover{
+    width: 75px;
+    height: 50px;  
+    transition: 1s;
+    background:#fff;
+    position:absolute;
+    top:8px;
+    left:900px;
+}
+.Work{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    border-radius:10px;
+    font-size: 25px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    padding-left:10px;
+    padding-bottom:3px;
+    position:absolute;
+    top:6px;
+    left:1040px;
+}
+.Work:hover{
+    width: 130px;
+    height: 50px;  
+    transition: 1s;
+    background:white;
+    position:absolute;
+    top:6px;
+    left:1040px;
+}
+.About{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    border-radius:10px;
+    font-size: 25px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    padding:3px;
+    padding-bottom:8px;
+    position:absolute;
+    top:3px;
+    left:1250px;
+}
+.About:hover{
+    width: 115px;
+    height: 50px;  
+    transition: 1s;
+    background:white;
+    position:absolute;
+    top:3px;
+    left:1250px;
+}
+
+.fb{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position:absolute;
+    top:1915px;
+    left:1230px;
+}
+
+
+.wrap_oneokrock{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:160px;
+    right:850px;
+}
+.item_oneokrock{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Oneokrock{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    position: relative;
+}
+._oneokrock{
+    width: 300px;
+    height: 150px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:90px;
+}
+.overlay1 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container1:hover .overlay1 {
+    opacity: 1;
+  }
+  .readmore1{
+      width:80px;
+      height: 80px;
+      position: absolute;
+      left:90px;
+      top:110px;
+  }
+
+.wrap_demonslayer{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:160px;
+    left:620px;
+}
+.item_demonslayer{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Demonslayer{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    position: relative;
+}
+._demonslayer{
+    width: 1000px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    position:relative;
+    left:40px;
+    bottom: 15px;
+}
+.overlay2 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container2:hover .overlay2 {
+    opacity: 1;
+  }
+  .readmore2{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+      top:110px;
+}
+
+.wrap_light{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    left:960px;
+    top:160px;
+}
+.item_light{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+    padding-top:60px; 
+}
+.Light{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    position: relative;
+    bottom: 60px;
+}
+._light{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:100px;
+    bottom: 50px;
+}
+.overlay3 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container3:hover .overlay3 {
+    opacity: 1;
+  }
+  .readmore3{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+
+.wrap_beyond{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:590px;
+    right:850px;
+    
+}
+.item_beyond{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Beyond{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;  
+    position: relative;
+}
+._beyond{
+    width: 500px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color:white;
+    position:relative;
+    left:80px;
+    bottom:15px;
+}
+.overlay4 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container4:hover .overlay4 {
+    opacity: 1;
+  }
+  .readmore4{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+
+.wrap_train{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:590px;
+    left:620px;
+}
+.item_train{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Train{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;  
+    position: relative;
+}
+._train{
+    width: 300px;
+    height: 150px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:50px;
+    bottom:15px;
+}
+.overlay5 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container5:hover .overlay5 {
+    opacity: 1;
+  }
+  .readmore5{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+
+
+.wrap_miss{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:590px;
+    left:960px;
+}
+.item_miss{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Miss{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;  
+    position: relative;
+}
+._miss{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:80px;
+    bottom:15px;
+}
+.overlay6 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container6:hover .overlay6 {
+    opacity: 1;
+  }
+  .readmore6{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+
+.wrap_love{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:1020px;
+    left:270px;
+}
+.item_love{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Love{
+    width: 250px;
+    height: 250px;
+    object-fit: contain; 
+    position: relative;
+}
+._love{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:70px;
+    bottom:15px;
+}
+.overlay7 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container7:hover .overlay7 {
+    opacity: 1;
+  }
+  .readmore7{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+
+.wrap_girl{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:1020px;
+    left:620px;
+}
+.item_girl{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Girl{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+    position: relative;
+}
+._girl{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:100px;
+    bottom:15px;
+}
+.overlay8 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container8:hover .overlay8 {
+    opacity: 1;
+  }
+  .readmore8{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+
+.wrap_long{
+    width:390px;
+    margin:auto;
+    display:flex;
+    position:absolute;
+    top:1020px;
+    left:960px;
+}
+.item_long{
+    width:253px;
+    height:330px;
+    border:1px solid #aaa;
+}
+.Long{
+    width: 250px;
+    height: 250px;
+    object-fit: contain; 
+    position: relative;
+}
+._long{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    position:relative;
+    left:80px;
+    bottom:15px;
+}
+.overlay9 {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0,0,0,0.5);
+    color: #f1f1f1;
+    width: 253px;
+    height:330px;
+    transition: .5s ease;
+    opacity:0;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .container9:hover .overlay9 {
+    opacity: 1;
+  }
+  .readmore9{
+    width:80px;
+    height: 80px;
+    position: absolute;
+    left:90px;
+    top:110px;
+}
+.tab{
+    width:50px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color:rgb(158, 157, 157);
+    color:white;
+    padding:6px 10px;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+.box2{
+    width: 1519px;
+    height: 200px;
+    background-color:black;
+    position:absolute;
+    top:1500px;
+    bottom:0px;
+    display: none;
+}
+.smallbox1{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color:white;
+    color:black;
+    font-size:25px;
+    text-align: center;
+    position:absolute;
+    top:1560px;
+    left:100px;
+}
+.smallbox2{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color:white;
+    color:black;
+    font-size:25px;
+    text-align: center;
+    position:absolute;
+    top:1560px;
+    left:280px;
+}
+.social_media{
+    width: 350px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color:white;
+    position:relative;
+    top:1500px;
+    left:1150px;
+}
+.fb{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position:absolute;
+    top:1580px;
+    left:1150px;
+}
+.instagram{
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    position:absolute;
+    top:1573px;
+    left:1210px;
+}
+.youtube{
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    position:absolute;
+    top:1575px;
+    left:1285px;
+}
+.Copyright {
+    width: 350px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color:white;
+    position:relative;
+    top:1610px;
+    left:600px;
+}
+
+@media screen and (max-width:768px){
+    .bg{
+       
+        height: 2100px;
+    }
+    .box1{
+        width: 1000px;
+    }
+    ul{
+        display: none;
+    }
+    .omio{
+        width: 750px;
+        height: 350px;
+        left: 400px;
+        top: 0px;
+      }
+    .wrap_oneokrock{
+        top: 400px;
+    }
+   
+    .wrap_demonslayer{
+        top: 400px;
+    }
+    
+    .wrap_light{
+        top: 400px;
+    }
+    
+    .wrap_beyond{
+        top: 830px;
+    }
+    
+    .wrap_train{
+        top: 830px;
+    }
+   
+    .wrap_miss{
+        top: 830px;
+    }
+    
+    .wrap_love{
+        top: 1260px;
+    }
+    
+    .wrap_girl{
+        top: 1260px;
+    }
+    
+    .wrap_long{
+        top: 1260px;
+    }
+    
+    .box2{
+        position: fixed;
+        top: 1875px;
+        height: 150px;
+        background-color: rgb(58, 58, 58)
+    }
+    .Copyright{
+        display: none;
+    }
+    .social_media{
+        display: none;
+    }
+    .smallbox1{
+        position: fixed;
+        left: 50px;
+        top: 50px;
+    }
+    .smallbox2{
+        position: fixed;
+        left: 50px;
+        top: 120px;
+    }
+    .fb{
+        position: fixed;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(65, 65, 65);
+        border-radius: 999em;
+        border: rgb(65, 65, 65) 15px solid;
+        box-sizing: border-box;
+        top: 1500px;
+        left: 1280px;
+    }
+    .instagram{
+        position: fixed;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(65, 65, 65);
+        border-radius: 999em;
+        border: rgb(65, 65, 65) 15px solid;
+        box-sizing: border-box;
+        top: 1620px;
+        left: 1280px;
+    }
+    .youtube{
+        position: fixed;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(65, 65, 65);
+        border-radius: 999em;
+        border: rgb(65, 65, 65) 15px solid;
+        box-sizing: border-box;
+        top: 1740px;
+        left: 1280px;
+    }
+    .fb:hover{
+        transform: scale(1.2);
+    }
+    .instagram:hover{
+        transform: scale(1.2);
+    }
+    .youtube:hover{
+        transform: scale(1.2);
+    }
+    .box2{
+        
+        display: block;
+    }
+    .HomeF{
+        width: 300px;
+        height: 50px;
+        font-family: sans-serif;
+        border-radius:10px;
+        font-size: 60px;
+        font-weight: 1000;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2.25;
+        letter-spacing: normal;
+        text-align: left;
+        padding-left:70px;
+        padding-right: 70px;
+        padding-bottom:3px;
+        left: 180px; 
+        top: 0px;
+        background-color: rgb(58, 58, 58);
+        position: relative;
+        border: 5px solid white;
+        color: white;
+        
+      }
+      .WorkF{
+        width: 300px;
+        height: 50px;
+        font-family: sans-serif;
+        border-radius:10px;
+        font-size: 60px;
+        font-weight: 1000;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2.25;
+        letter-spacing: normal;
+        text-align: left;
+        padding-left:10px;
+        padding-right: 10px;
+        padding-bottom:3px;
+        left: 300px; 
+        top: 0px;
+        background-color:rgb(58, 58, 58);
+        position: relative;
+        border: 5px solid white;
+        color: white;
+      }
+      .AboutF{
+        
+        width: 300px;
+        height: 50px;
+        font-family: sans-serif;
+        border-radius:10px;
+        font-size: 60px;
+        font-weight: 1000;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2.25;
+        letter-spacing: normal;
+        text-align: left;
+        padding-left:10px;
+        padding-right: 10px;
+        padding-bottom:3px;
+        left: 420px; 
+        top: 0px;
+        background-color: rgb(58, 58, 58);
+        position: relative;
+        border: 5px solid white;
+        color: white;
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    @media screen and (max-width:320px){
+        .bg{
+            width: 1300px;
+            height: 2500px;
+        }
+        .omio{
+            width: 800px;
+            height: 500px;
+            left: 300px;
+        }
+        .wrap_oneokrock{
+            width: 350px;
+            height: 450px;
+            top: 550px;
+            left: 37px;
+        }
+        .item_oneokrock{
+            width: 350px;
+            height: 450px;
+        }
+        .Oneokrock{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+        }
+        ._oneokrock{
+            font-size: 40px;
+            top: -205px;
+        }
+        .overlay1{
+            width: 350px;
+            height: 450px;           
+        }
+        .readmore1{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+        .wrap_demonslayer{
+            width: 350px;
+            height: 450px;
+            top: 550px;
+            left: 481px;
+        }
+        .item_demonslayer{
+            width: 350px;
+            height: 450px;
+            /* left: 387px; */
+        }
+        .Demonslayer{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._demonslayer{
+            font-size: 35px;
+            top: -230px;
+            
+        }
+        .overlay2{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore2{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+        .wrap_light{
+            width: 350px;
+            height: 450px;
+            top: 550px;
+            left: 888px;
+        }
+        .item_light{
+            width: 350px;
+            height: 450px;
+            
+            /* left: 387px; */
+        }
+        .Light{
+            width: 350px;
+            height: 550px;
+            top: -160px;
+            
+        }
+        ._light{
+            font-size: 40px;
+            top: -270px;
+            left: 130px;
+        }
+        .overlay3{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore3{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+
+        .wrap_beyond{
+            width: 350px;
+            height: 450px;
+            top: 1150px;
+            left: 37px;
+        }
+        .item_beyond{
+            width: 350px;
+            height: 450px;
+        }
+        .Beyond{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._beyond{
+            font-size: 40px;
+            top: -230px;
+            
+        }
+        .overlay4{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore4{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+
+        .wrap_train{
+            width: 350px;
+            height: 450px;
+            top: 1150px;
+            left: 481px;
+        }
+        .item_train{
+            width: 350px;
+            height: 450px;
+            /* left: 387px; */
+        }
+        .Train{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._train{
+            font-size: 40px;
+            top: -230px;
+            
+        }
+        .overlay5{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore5{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+
+        .wrap_miss{
+            width: 350px;
+            height: 450px;
+            top: 1150px;
+            left: 888px;
+        }
+        .item_miss{
+            width: 350px;
+            height: 450px;
+            
+            /* left: 387px; */
+        }
+        .Miss{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._miss{
+            font-size: 40px;
+            top: -230px;
+            
+        }
+        .overlay6{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore6{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+
+        .wrap_love{
+            width: 350px;
+            height: 450px;
+            top: 1750px;
+            left: 70px;
+        }
+        .item_love{
+            width: 350px;
+            height: 450px;
+        }
+        .Love{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._love{
+            font-size: 40px;
+            top: -230px;
+            
+        }
+        .overlay7{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore7{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+
+        .wrap_girl{
+            width: 350px;
+            height: 450px;
+            top: 1750px;
+            left: 481px;
+        }
+        .item_girl{
+            width: 350px;
+            height: 450px;
+            /* left: 387px; */
+        }
+        .Girl{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._girl{
+            font-size: 40px;
+            top: -230px;
+            left: 130px;
+        }
+        .overlay8{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore8{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+        .wrap_long{
+            width: 350px;
+            height: 450px;
+            top: 1750px;
+            left: 888px;
+        }
+        .item_long{
+            width: 350px;
+            height: 450px;
+            
+            /* left: 387px; */
+        }
+        .Long{
+            width: 350px;
+            height: 550px;
+            top: -100px;
+            
+        }
+        ._long{
+            font-size: 40px;
+            top: -230px;
+            
+        }
+        .overlay9{
+            width: 350px;
+            height: 450px;    
+                   
+        }
+        .readmore9{
+            width: 100px;
+            height: 100px;
+            left: 132px;
+            top: 150px;
+        }
+
+        .box2{
+            height: 200px;
+            width: 1300px;
+            /* display: none; */
+            top: 2070px;
+        }
+
+        .smallbox1{
+            width: 225px;
+            height: 60px;
+            font-size: 40px;
+        }
+        .smallbox2{
+            width: 225px;
+            height: 60px;
+            font-size: 40px;
+        }
+
+
+        .fb{
+            width: 120px;
+            height: 120px;
+            top: 1550px;
+            left: 1100px;
+          }
+          .instagram{
+            width: 120px;
+            height: 120px;
+            top: 1700px;
+            left: 1100px;
+          }
+          .youtube{
+            width: 120px;
+            height: 120px;
+            top: 1850px;
+            left: 1100px;
+          }
+        .HomeF{
+            top: 20px;
+            left: 80px;
+        }      
+        .WorkF{
+            top: 20px;
+            left: 200px;
+        }
+        .AboutF{
+            top: 20px;
+            left: 320px;
+        }
+}
